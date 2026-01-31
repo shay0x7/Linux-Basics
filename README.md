@@ -1,4 +1,3 @@
-# Linux-Basics
 # Linux Basics
 
 My personal Linux learning notes & quick command references.
